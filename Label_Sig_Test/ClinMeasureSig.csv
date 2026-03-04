@@ -1,0 +1,17 @@
+,Clinical Measure,Feature,Significant Difference,Page,R-Squared,Reference Group,Slope Reference Group,Slope Diff Ref vs Group 1,Confidence Interval 1,P-Value 1,Slope Diff Ref vs Group 0/2,Confidence Interval 0/2,P-Value 0/2
+127,MDS-UPDRS,NP3TOT,True,255,0.16,Group 0,1.55,0.67,[0.34 1.01],0.0,0.44,[0.07 0.81],0.021
+135,MDS-UPDRS,NP4FLCTI,True,271,0.213,Group 0,0.13,0.04,[0.02 0.07],0.0,0.06,[0.03 0.09],0.0
+136,MDS-UPDRS,NP4FLCTX,True,273,0.167,Group 0,0.1,0.05,[0.02 0.07],0.0,0.05,[0.02 0.07],0.0
+140,MDS-UPDRS,NP4OFF,True,281,0.136,Group 0,0.09,0.02,[0.   0.04],0.039,0.03,[0.01 0.06],0.009
+141,MDS-UPDRS,NP4TOT,True,283,0.244,Group 0,0.49,0.16,[0.08 0.25],0.0,0.25,[0.16 0.35],0.0
+145,MDS-UPDRS,NP4WDYSK,True,291,0.131,Group 0,0.08,0.01,[-0.01  0.03],0.34,0.04,[0.02 0.06],0.001
+180,MotorFunction,SHUFFLE,True,361,0.104,Group 0,0.07,-0.03,[-0.06 -0.01],0.009,-0.0,[-0.03  0.02],0.845
+191,PDAQ,DIFFFAMILIAR,True,383,0.558,Group 0,0.0,0.0,[-0.  0.],0.204,-0.0,[-0. -0.],0.009
+195,PDAQ,DIFFKEPT,True,391,0.815,Group 0,0.03,0.06,[-0.01  0.13],0.069,-0.09,[-0.16 -0.02],0.011
+200,PDAQ,DIFFNEWS,True,401,0.407,Group 0,0.06,-0.04,[-0.17  0.09],0.555,-0.19,[-0.33 -0.05],0.008
+202,PDAQ,DIFFPROBLEM,True,405,0.508,Group 2,-0.12,0.24,[0.1  0.38],0.001,0.23,[0.04 0.41],0.018
+205,PDAQ,DIFFREM,True,411,0.505,Group 0,0.03,-0.04,[-0.12  0.04],0.329,-0.12,[-0.2  -0.04],0.004
+207,PDAQ,DIFFSWITCH,True,415,0.226,Group 2,-0.1,0.22,[0.04 0.39],0.016,0.12,[-0.11  0.35],0.303
+211,PDAQ,DIFFTOPIC,True,423,0.558,Group 0,0.0,0.0,[-0.  0.],0.204,-0.0,[-0. -0.],0.009
+212,PDAQ,DIFFWORD,True,425,0.325,Group 0,-0.34,0.39,[0.13 0.66],0.005,0.44,[0.17 0.71],0.002
+295,Stebbins,PIGD,True,591,0.129,Group 0,0.06,0.0,[-0.01  0.02],0.45,0.03,[0.01 0.04],0.0
